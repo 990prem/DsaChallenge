@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/990prem/DsaChallenge/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/990prem/DsaChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/990prem/DsaChallenge/tree/master/0485-max-consecutive-ones) |
+| [1051-height-checker](https://github.com/990prem/DsaChallenge/tree/master/1051-height-checker) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/990prem/DsaChallenge/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/990prem/DsaChallenge/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/990prem/DsaChallenge/tree/master/0268-missing-number) |
+| [1051-height-checker](https://github.com/990prem/DsaChallenge/tree/master/1051-height-checker) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/990prem/DsaChallenge/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Two Pointers
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/990prem/DsaChallenge/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/990prem/DsaChallenge/tree/master/1051-height-checker) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/990prem/DsaChallenge/tree/master/2333-minimum-sum-of-squared-difference) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/990prem/DsaChallenge/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
