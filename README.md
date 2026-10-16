@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/990prem/DsaChallenge/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/990prem/DsaChallenge/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/990prem/DsaChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/990prem/DsaChallenge/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/990prem/DsaChallenge/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/990prem/DsaChallenge/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/990prem/DsaChallenge/tree/master/0204-count-primes) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/990prem/DsaChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/990prem/DsaChallenge/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/990prem/DsaChallenge/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/990prem/DsaChallenge/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/990prem/DsaChallenge/tree/master/0287-find-the-duplicate-number) |
@@ -128,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/990prem/DsaChallenge/tree/master/0204-count-primes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/990prem/DsaChallenge/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/990prem/DsaChallenge/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
