@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/990prem/DsaChallenge/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/990prem/DsaChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/990prem/DsaChallenge/tree/master/0075-sort-colors) |
+| [0137-single-number-ii](https://github.com/990prem/DsaChallenge/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/990prem/DsaChallenge/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/990prem/DsaChallenge/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/990prem/DsaChallenge/tree/master/0217-contains-duplicate) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/990prem/DsaChallenge/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/990prem/DsaChallenge/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/990prem/DsaChallenge/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
