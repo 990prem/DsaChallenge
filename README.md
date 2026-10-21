@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/990prem/DsaChallenge/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/990prem/DsaChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/990prem/DsaChallenge/tree/master/0485-max-consecutive-ones) |
+| [0594-longest-harmonious-subsequence](https://github.com/990prem/DsaChallenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/990prem/DsaChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/990prem/DsaChallenge/tree/master/1051-height-checker) |
 | [1470-shuffle-the-array](https://github.com/990prem/DsaChallenge/tree/master/1470-shuffle-the-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/990prem/DsaChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/990prem/DsaChallenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/990prem/DsaChallenge/tree/master/0268-missing-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/990prem/DsaChallenge/tree/master/0594-longest-harmonious-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/990prem/DsaChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Math
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/990prem/DsaChallenge/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/990prem/DsaChallenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/990prem/DsaChallenge/tree/master/0268-missing-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/990prem/DsaChallenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/990prem/DsaChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/990prem/DsaChallenge/tree/master/1051-height-checker) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/990prem/DsaChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/990prem/DsaChallenge/tree/master/0594-longest-harmonious-subsequence) |
 | [1051-height-checker](https://github.com/990prem/DsaChallenge/tree/master/1051-height-checker) |
 ## Binary Indexed Tree
 |  |
@@ -170,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/990prem/DsaChallenge/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/990prem/DsaChallenge/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
