@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/990prem/DsaChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/990prem/DsaChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/990prem/DsaChallenge/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/990prem/DsaChallenge/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/990prem/DsaChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/990prem/DsaChallenge/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/990prem/DsaChallenge/tree/master/0137-single-number-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/990prem/DsaChallenge/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/990prem/DsaChallenge/tree/master/0053-maximum-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/990prem/DsaChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/990prem/DsaChallenge/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
