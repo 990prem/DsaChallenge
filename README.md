@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/990prem/DsaChallenge/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/990prem/DsaChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/990prem/DsaChallenge/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/990prem/DsaChallenge/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
