@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/990prem/DsaChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/990prem/DsaChallenge/tree/master/0409-longest-palindrome) |
 | [1021-remove-outermost-parentheses](https://github.com/990prem/DsaChallenge/tree/master/1021-remove-outermost-parentheses) |
+| [1189-maximum-number-of-balloons](https://github.com/990prem/DsaChallenge/tree/master/1189-maximum-number-of-balloons) |
 ## Stack
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/990prem/DsaChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/990prem/DsaChallenge/tree/master/0409-longest-palindrome) |
 | [0594-longest-harmonious-subsequence](https://github.com/990prem/DsaChallenge/tree/master/0594-longest-harmonious-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/990prem/DsaChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/990prem/DsaChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Math
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/990prem/DsaChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/990prem/DsaChallenge/tree/master/0594-longest-harmonious-subsequence) |
 | [1051-height-checker](https://github.com/990prem/DsaChallenge/tree/master/1051-height-checker) |
+| [1189-maximum-number-of-balloons](https://github.com/990prem/DsaChallenge/tree/master/1189-maximum-number-of-balloons) |
 ## Binary Indexed Tree
 |  |
 | ------- |
