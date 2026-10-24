@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/990prem/DsaChallenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/990prem/DsaChallenge/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/990prem/DsaChallenge/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/990prem/DsaChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/990prem/DsaChallenge/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/990prem/DsaChallenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/990prem/DsaChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/990prem/DsaChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/990prem/DsaChallenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/990prem/DsaChallenge/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/990prem/DsaChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/990prem/DsaChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/990prem/DsaChallenge/tree/master/0409-longest-palindrome) |
 | [0594-longest-harmonious-subsequence](https://github.com/990prem/DsaChallenge/tree/master/0594-longest-harmonious-subsequence) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/990prem/DsaChallenge/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/990prem/DsaChallenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/990prem/DsaChallenge/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/990prem/DsaChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/990prem/DsaChallenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/990prem/DsaChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/990prem/DsaChallenge/tree/master/1051-height-checker) |
@@ -127,10 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/990prem/DsaChallenge/tree/master/0347-top-k-frequent-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/990prem/DsaChallenge/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/990prem/DsaChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/990prem/DsaChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/990prem/DsaChallenge/tree/master/0594-longest-harmonious-subsequence) |
 | [1051-height-checker](https://github.com/990prem/DsaChallenge/tree/master/1051-height-checker) |
@@ -184,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/990prem/DsaChallenge/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/990prem/DsaChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -192,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/990prem/DsaChallenge/tree/master/0387-first-unique-character-in-a-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/990prem/DsaChallenge/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/990prem/DsaChallenge/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
