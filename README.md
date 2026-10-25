@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/990prem/DsaChallenge/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/990prem/DsaChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/990prem/DsaChallenge/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/990prem/DsaChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/990prem/DsaChallenge/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/990prem/DsaChallenge/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/990prem/DsaChallenge/tree/master/0204-count-primes) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/990prem/DsaChallenge/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/990prem/DsaChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/990prem/DsaChallenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/990prem/DsaChallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/990prem/DsaChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/990prem/DsaChallenge/tree/master/0238-product-of-array-except-self) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/990prem/DsaChallenge/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
