@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/990prem/DsaChallenge/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/990prem/DsaChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/990prem/DsaChallenge/tree/master/0409-longest-palindrome) |
 | [0917-reverse-only-letters](https://github.com/990prem/DsaChallenge/tree/master/0917-reverse-only-letters) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/990prem/DsaChallenge/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/990prem/DsaChallenge/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/990prem/DsaChallenge/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/990prem/DsaChallenge/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/990prem/DsaChallenge/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/990prem/DsaChallenge/tree/master/0268-missing-number) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/990prem/DsaChallenge/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/990prem/DsaChallenge/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/990prem/DsaChallenge/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/990prem/DsaChallenge/tree/master/0287-find-the-duplicate-number) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/990prem/DsaChallenge/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/990prem/DsaChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
