@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/990prem/DsaChallenge/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/990prem/DsaChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/990prem/DsaChallenge/tree/master/0409-longest-palindrome) |
+| [0567-permutation-in-string](https://github.com/990prem/DsaChallenge/tree/master/0567-permutation-in-string) |
 | [0917-reverse-only-letters](https://github.com/990prem/DsaChallenge/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/990prem/DsaChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/990prem/DsaChallenge/tree/master/1189-maximum-number-of-balloons) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/990prem/DsaChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/990prem/DsaChallenge/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/990prem/DsaChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0567-permutation-in-string](https://github.com/990prem/DsaChallenge/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/990prem/DsaChallenge/tree/master/0594-longest-harmonious-subsequence) |
 | [1122-relative-sort-array](https://github.com/990prem/DsaChallenge/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/990prem/DsaChallenge/tree/master/1189-maximum-number-of-balloons) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/990prem/DsaChallenge/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/990prem/DsaChallenge/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/990prem/DsaChallenge/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/990prem/DsaChallenge/tree/master/0567-permutation-in-string) |
 | [0917-reverse-only-letters](https://github.com/990prem/DsaChallenge/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/990prem/DsaChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/990prem/DsaChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/990prem/DsaChallenge/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/990prem/DsaChallenge/tree/master/0594-longest-harmonious-subsequence) |
 ## Queue
 |  |
