@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/990prem/DsaChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/990prem/DsaChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/990prem/DsaChallenge/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/990prem/DsaChallenge/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/990prem/DsaChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/990prem/DsaChallenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/990prem/DsaChallenge/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/990prem/DsaChallenge/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/990prem/DsaChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [2007-find-original-array-from-doubled-array](https://github.com/990prem/DsaChallenge/tree/master/2007-find-original-array-from-doubled-array) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/990prem/DsaChallenge/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/990prem/DsaChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Math
 |  |
