@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/990prem/DsaChallenge/tree/master/1122-relative-sort-array) |
 | [1470-shuffle-the-array](https://github.com/990prem/DsaChallenge/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/990prem/DsaChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2007-find-original-array-from-doubled-array](https://github.com/990prem/DsaChallenge/tree/master/2007-find-original-array-from-doubled-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/990prem/DsaChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/990prem/DsaChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/990prem/DsaChallenge/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/990prem/DsaChallenge/tree/master/0594-longest-harmonious-subsequence) |
 | [1122-relative-sort-array](https://github.com/990prem/DsaChallenge/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/990prem/DsaChallenge/tree/master/1189-maximum-number-of-balloons) |
+| [2007-find-original-array-from-doubled-array](https://github.com/990prem/DsaChallenge/tree/master/2007-find-original-array-from-doubled-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/990prem/DsaChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Math
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/990prem/DsaChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/990prem/DsaChallenge/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/990prem/DsaChallenge/tree/master/1122-relative-sort-array) |
+| [2007-find-original-array-from-doubled-array](https://github.com/990prem/DsaChallenge/tree/master/2007-find-original-array-from-doubled-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/990prem/DsaChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/990prem/DsaChallenge/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/990prem/DsaChallenge/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/990prem/DsaChallenge/tree/master/0409-longest-palindrome) |
+| [2007-find-original-array-from-doubled-array](https://github.com/990prem/DsaChallenge/tree/master/2007-find-original-array-from-doubled-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/990prem/DsaChallenge/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/990prem/DsaChallenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
