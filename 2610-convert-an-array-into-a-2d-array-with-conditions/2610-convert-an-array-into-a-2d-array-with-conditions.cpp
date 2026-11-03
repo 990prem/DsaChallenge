@@ -2,34 +2,26 @@ class Solution {
 public:
     vector<vector<int>> findMatrix(vector<int>& nums) {
 
+        map<int, int> mp;
+
         vector<vector<int>> ans;
 
         for(int i = 0; i < nums.size(); i++) {
+            mp[nums[i]]++;
+        }
 
-            int num = nums[i];
-            bool placed = false;
+        for(auto it : mp) {
 
-            for(int j = 0; j < ans.size(); j++) {
+            int num = it.first;
+            int freq = it.second;
 
-                bool found = false;
+            for(int i = 0; i < freq; i++) {
 
-                for(int k = 0; k < ans[j].size(); k++) {
-
-                    if(ans[j][k] == num) {
-                        found = true;
-                        break;
-                    }
+                if(i >= ans.size()) {
+                    ans.push_back({});
                 }
 
-                if(found == false) {
-                    ans[j].push_back(num);
-                    placed = true;
-                    break;
-                }
-            }
-
-            if(placed == false) {
-                ans.push_back({num});
+                ans[i].push_back(num);
             }
         }
 
