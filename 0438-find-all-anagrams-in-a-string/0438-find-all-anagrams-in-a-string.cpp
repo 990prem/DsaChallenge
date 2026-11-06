@@ -8,32 +8,32 @@ public:
 
         if(n < m) return ans;
 
-        vector<int> freq1(26, 0);
-        vector<int> freq2(26, 0);
+        vector<int> freq(26, 0);
+        vector<int> window(26, 0);
 
-        // Store frequency of p
+        // Frequency of p
         for(int i = 0; i < m; i++) {
-            freq1[p[i] - 'a']++;
-            freq2[s[i] - 'a']++;
+            freq[p[i] - 'a']++;
         }
 
-        // Check first window
-        if(freq1 == freq2) {
-            ans.push_back(0);
-        }
+        int i = 0;
 
-        // Sliding window
-        for(int i = m; i < n; i++) {
+        for(int j = 0; j < n; j++) {
 
-            // Remove outgoing character
-            freq2[s[i - m] - 'a']--;
+            // Add character
+            window[s[j] - 'a']++;
 
-            // Add incoming character
-            freq2[s[i] - 'a']++;
+            // Window size greater than p
+            if(j - i + 1 > m) {
+                window[s[i] - 'a']--;
+                i++;
+            }
 
-            // Compare frequencies
-            if(freq1 == freq2) {
-                ans.push_back(i - m + 1);
+            // Check anagram
+            if(j - i + 1 == m) {
+                if(freq == window) {
+                    ans.push_back(i);
+                }
             }
         }
 
