@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/990prem/DsaChallenge/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/990prem/DsaChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/990prem/DsaChallenge/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/990prem/DsaChallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/990prem/DsaChallenge/tree/master/0567-permutation-in-string) |
 | [0917-reverse-only-letters](https://github.com/990prem/DsaChallenge/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/990prem/DsaChallenge/tree/master/1021-remove-outermost-parentheses) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/990prem/DsaChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/990prem/DsaChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/990prem/DsaChallenge/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/990prem/DsaChallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/990prem/DsaChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/990prem/DsaChallenge/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/990prem/DsaChallenge/tree/master/0594-longest-harmonious-subsequence) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/990prem/DsaChallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/990prem/DsaChallenge/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/990prem/DsaChallenge/tree/master/0594-longest-harmonious-subsequence) |
 ## Queue
